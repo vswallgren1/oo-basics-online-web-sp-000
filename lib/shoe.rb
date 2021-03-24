@@ -5,10 +5,6 @@ class Shoe
   end
 
   def shoe(brand)
-    @brand
-  end
-
-  def brand=(brand)
     @brand = brand
   end
 
