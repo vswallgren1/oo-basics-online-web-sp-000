@@ -32,4 +32,8 @@ class Shoe
     @material
   end
 
+  def condition(tattered)
+    @tattered = tattered
+  end
+
 end
